@@ -1,0 +1,10 @@
+let a =7+3;
+console.log(a);
+let b =10-4;
+console.log(b);
+let c=6*2;
+console.log(c);
+let d=20/4;
+console.log(d);
+let e=15%4;
+console.log(e);
